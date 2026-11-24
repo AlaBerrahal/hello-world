@@ -1,15 +1,22 @@
 # hello-world
-Bienvenue sur mon tout premier dépôt GitHub !
 
-Je m'appelle Ala Eddine BERRAHAL, actuellement étudiant en Master 2 Mathématiques Appliquées et Machine Learning pour l’Ingénierie à l’Université Jean Monnet (Saint-Étienne), en collaboration avec l’École des Mines.
+My first GitHub repository, created to learn Git and the GitHub Flow. It is kept as a record of those first steps.
 
-🔎 Je m'intéresse particulièrement à :
+## Where I am now
 
-La modélisation statistique et l’apprentissage automatique
+I am **Ala Eddine Berrahal**, a **Data Analysis Engineer at Université Clermont Auvergne, UMR 454 MEDiS**, since November 2026. My background is in applied mathematics, machine learning and statistical modelling.
 
-Les analyses multivariées, la réduction de dimension, et la régularisation
+My research experience includes **longitudinal metabolomics at INRAE (2026)** and **probabilistic building energy modelling at LOCIE (2025)**. My current work concerns biostatistics and machine learning applied to microbiome data.
 
-La modélisation probabiliste appliquée à la performance énergétique des bâtiments, dans le cadre de mon stage au laboratoire LOCIE (INES - Université Savoie Mont Blanc)
+## Find my current work
 
-🛠️ Technos & outils : R, Python, MATLAB, FreeFem, LaTeX
-📸 Passions : photographie de la nature, football et cyclisme
+- [GitHub profile](https://github.com/AlaBerrahal)
+- [Research portfolio — English](https://alaberrahal.github.io)
+- [Portfolio scientifique — français](https://alaberrahal.github.io/fr/)
+- [LinkedIn](https://www.linkedin.com/in/ala-eddine-berrahal-726a81327)
+
+This is an introductory learning repository, not an analysis package or a research results repository.
+
+---
+
+**En français.** Mon premier dépôt GitHub, conservé pour mes débuts avec Git. Retrouvez mon parcours et mes expériences de recherche sur mon [profil](https://github.com/AlaBerrahal) et mon [portfolio](https://alaberrahal.github.io/fr/).
